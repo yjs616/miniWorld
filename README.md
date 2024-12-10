@@ -7,6 +7,7 @@
 플레이어는 키가 작아지고, 키가 다시 커지기 위해 집에 각종 방을 돌아다니며 약을 찾아다니고 게임을 하면서 동심을 느껴보자는 것이 기획 의도이다.
 
 <br>
+
 ## 🎮 게임 영상
 ### [GrowingPetPlant ➡️](https://youtu.be/hxTcxNzxGiQ)
 <a href="https://youtu.be/hxTcxNzxGiQ"><img src="https://github.com/yjs616/miniWorld/assets/107312651/9a2d4615-d9f5-4cd5-8925-638f687b3198" width="30%" height="30%"/></a>
