@@ -11,7 +11,7 @@
 <br>
 
 ## 🎮 게임 영상
-### [GrowingPetPlant ➡️](https://youtu.be/hxTcxNzxGiQ)
+### [Mini World ➡️](https://youtu.be/hxTcxNzxGiQ)
 <a href="https://youtu.be/hxTcxNzxGiQ"><img src="https://github.com/yjs616/miniWorld/assets/107312651/9a2d4615-d9f5-4cd5-8925-638f687b3198" width="30%" height="30%"/></a>
 <br>
 
